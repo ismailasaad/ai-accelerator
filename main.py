@@ -6,3 +6,4 @@ print("This is a sample Python script.")
 print("Test code executed.")
 
 print("End of the script.")
+print("Goodbye!")
